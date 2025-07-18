@@ -17,12 +17,13 @@
 
 ### Steps to Install
 
-1.Clone this repository or download the source code: 
+1. Clone this repository or download the source code:
 
-bash
+```bash
 git clone https://github.com/pkgmafuj/mad-fath0r-ddos.git
 cd mad-fath0r-ddos
 python3 mf_ddos.py
+
 
 
 
